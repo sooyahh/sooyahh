@@ -27,7 +27,7 @@ I'm most interested in **AI transformation (AX)**, **data analysis**, and **buil
 
 #### 🏆 Awards
 - **Encouragement Award**, 2nd Google × Ajou University AI Convergence Capstone Design Competition — *Saegim: AI-assisted epigraph reading* (Oct 2026)
-- **Encouragement Award**, khuthon 2026 AI·SW Hackathon (May 2026)
+- **Encouragement Award**, khuthon 2026 AI·SW Hackathon — Flutter app (May 2026)
 
 #### 📜 Certificates & Programs
 - WorldQuant BRAIN — Gold Level
