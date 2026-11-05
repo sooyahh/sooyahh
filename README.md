@@ -1,6 +1,6 @@
 ### Hi, I'm Jangsoo Kim 👋
 
-Double-majoring in **Financial Engineering** and **Mathematics** at **Ajou University**, with an academic interest in quantum information theory and quantum computing.
+**Financial Engineering** major at **Ajou University**, double-majoring in **Mathematics** and **Quantum Information Theory & Quantum Computing**.
 I'm most interested in **AI transformation (AX)**, **data analysis**, and **building with AI agents**: turning real-world problems into working AI tools, and checking every result against actual outputs rather than trusting the AI's report.
 
 ---
