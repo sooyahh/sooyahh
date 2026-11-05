@@ -13,10 +13,10 @@ I'm most interested in **AI transformation (AX)**, **data analysis**, and **buil
 
 #### 🚀 Featured Projects
 - [**epigraph-restoration**](https://github.com/sooyahh/epigraph-restoration): Top-k candidate prediction for missing Hanja characters in Korean epigraph transcriptions (fine-tuned SillokBERT, Exact@5 43% → 53%) · *Google × Ajou AI Capstone, 🏆 Encouragement Award*
-- [**dcc2026-prelim**](https://github.com/sooyahh/dcc2026-prelim): Emergency situation recognition from 119 emergency-call audio & transcripts (caller gender 98.10% · speaker-role classification 92.90% · symptom Macro F1 0.6534) · *DCC 2026 preliminary, 5-person team, team lead*
+- [**dcc2026-prelim**](https://github.com/sooyahh/dcc2026-prelim): Emergency situation recognition from 119 emergency-call audio & transcripts (caller gender 98.10% · speaker-role classification 92.90% · symptom Macro F1 0.6534) · *Data+AI Creator Camp 2026 — university preliminary, 5-person team, team lead*
 - [**lgaimers-9th**](https://github.com/sooyahh/lgaimers-9th): Pitch-level command success probability prediction with season-wise validation & experiment pipeline · *LG Aimers 9th Phase 2 (DACON)*
 - [**agri-forecast-validation**](https://github.com/sooyahh/agri-forecast-validation): Corn and soybean forecasting with annual model selection, execution-aware backtests, transaction-cost sensitivity & reproducibility checks · *Spring 2026 Financial Deep Learning group coursework, subsequently extended for retrospective validation*
-- [**dcc-lab**](https://github.com/sooyahh/dcc-lab): AI orchestration environment (Claude · Codex · Cursor · Colab) that let a non-expert team run experiments around the clock · *built for DCC 2026*
+- [**dcc-lab**](https://github.com/sooyahh/dcc-lab): AI orchestration environment (Claude · Codex · Cursor · Colab) that let a non-expert team run experiments around the clock · *built for Data+AI Creator Camp 2026*
 
 #### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
