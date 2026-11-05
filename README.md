@@ -1,6 +1,6 @@
 ### Hi, I'm Jangsoo Kim 👋
 
-Math & Financial Engineering student at **Ajou University**, aiming to become an **AI researcher**.
+Math & Financial Engineering student at **Ajou University** (also majoring in Quantum Information Theory & Quantum Computing), aiming to become an **AI researcher**.
 I like turning data and math into models: machine learning, data analysis, and quantitative alpha research.
 
 ---
