@@ -1,14 +1,15 @@
 ### Hi, I'm Jangsoo Kim 👋
 
-Financial Engineering, Mathematics, and Quantum Information Theory & Quantum Computing student at **Ajou University**, aiming to become an **AI researcher**.
-I like turning data and math into models: machine learning, data analysis, and quantitative alpha research.
+Financial Engineering, Mathematics, and Quantum Information Theory & Quantum Computing student at **Ajou University**.
+I'm most interested in **AI transformation (AX)**, **data analysis**, and **building with AI agents**: turning real-world problems into working AI tools, and checking every result against actual outputs rather than trusting the AI's report.
 
 ---
 
 #### 🔭 What I'm doing
 - 📈 **WorldQuant BRAIN Research Consultant**: building alphas with FASTEXPR and Python (**Gold level**)
 - 🏦 Leading the **buy-side team** at a financial engineering club (WorldQuant academic partnership)
-- 🤖 Studying ML / statistical learning (ISLR) and working on data analysis projects
+- 🤖 Building multi-agent AI workflows (Claude · Codex · Cursor) and applying them to data analysis projects
+- 📚 Studying ML / statistical learning (ISLR)
 
 #### 🚀 Featured Projects
 - [**epigraph-restoration**](https://github.com/sooyahh/epigraph-restoration): Top-k candidate prediction for missing Hanja characters in Korean epigraph transcriptions (fine-tuned SillokBERT, Exact@5 43% → 53%) · *Google × Ajou AI Capstone, 🏆 Encouragement Award*
@@ -36,4 +37,4 @@ I like turning data and math into models: machine learning, data analysis, and q
 - Google Analytics Certification (Oct 2026)
 
 #### 🌱 Interests
-`Machine Learning` · `Data Analysis` · `Quant Research` · `AI for Social Good`
+`AI Transformation (AX)` · `Data Analysis` · `Building with AI Agents` · `Quant Research` · `AI for Social Good`
