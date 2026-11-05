@@ -30,6 +30,7 @@ I like turning data and math into models: machine learning, data analysis, and q
 
 #### 📜 Certificates & Programs
 - WorldQuant BRAIN — Gold Level
+- Data+AI Creator Camp 2026 (University track) — Ministry of Science and ICT · NIA (2026)
 - LG Aimers 9th, Phase 1 & 2 — LG AI Research (Jun–Sep 2026)
 - Korean Mathematical Society — KMS-NIMS-KRIMS AI Winter School (Feb 2026)
 - Google Analytics Certification (Oct 2026)
