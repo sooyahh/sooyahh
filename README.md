@@ -25,7 +25,3 @@ I like turning data and math into models: machine learning, data analysis, and q
 
 #### 🌱 Interests
 `Machine Learning` · `Data Analysis` · `Quant Research` · `AI for Social Good`
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sooyahh&show_icons=true&hide_border=true)
