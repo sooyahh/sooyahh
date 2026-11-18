@@ -8,7 +8,6 @@ The question I keep coming back to: **how can AI become a trustworthy assistant 
 ---
 
 #### 🔭 What I'm doing
-- 📈 **WorldQuant BRAIN Research Consultant**: building alphas with FASTEXPR and Python (**Gold level**)
 - 🏦 Leading the **buy-side team** at a financial engineering club (WorldQuant academic partnership)
 - 🤖 Building multi-agent AI workflows (Claude · Codex · Cursor) and applying them to data analysis projects
 - 📚 Studying ML / statistical learning (ISLR)
