@@ -1,6 +1,6 @@
 ### Hi, I'm Jangsoo Kim 👋
 
-**Financial Engineering** major at **Ajou University**, double-majoring in **Mathematics** and **Quantum Information Theory & Quantum Computing**.
+Triple-majoring in **Financial Engineering**, **Mathematics**, and **Quantum Information Theory & Quantum Computing** at **Ajou University**.
 I'm most interested in **AI transformation (AX)**, **data analysis**, and **building with AI agents**: turning real-world problems into working AI tools, and checking every result against actual outputs rather than trusting the AI's report.
 
 The question I keep coming back to: **how can AI become a trustworthy assistant in places where human judgment decides the outcome**, showing not only an answer but also when that answer might be wrong.
